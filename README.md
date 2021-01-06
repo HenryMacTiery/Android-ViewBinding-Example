@@ -85,8 +85,8 @@ binding.button.setOnClickListener { viewModel.userClicked() }
 ```
 
 Links to this examples implementation:  
-[In Activity](./app/src/main/java/com/timac/viewbinding/MainActivity)  
-[In Fragment](./app/src/main/java/com/timac/viewbinding/ExampleFragment)
+[In Activity](./app/src/main/java/com/timac/viewbinding/MainActivity.kt)  
+[In Fragment](./app/src/main/java/com/timac/viewbinding/ExampleFragment.kt)
 
 This example also shows that viewbinding also works with:
 
